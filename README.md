@@ -2,4 +2,4 @@
 # FirstRepo 
 first repository 
 <br>
-Author - Harsh
+Author - Harsh Ashthana
